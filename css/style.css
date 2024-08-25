@@ -57,7 +57,7 @@ p {
 }
 
 .navbar-toggle .icon-bar {
-  background: #223a66;
+  background: #AE4951;
 }
 
 input[type="email"], input[type="password"], input[type="text"], input[type="tel"] {
@@ -69,7 +69,7 @@ input[type="email"], input[type="password"], input[type="text"], input[type="tel
 
 input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focus, input[type="tel"]:focus {
   box-shadow: none;
-  border: 1px solid #223a66;
+  border: 1px solid #AE4951;
 }
 
 .form-control {
@@ -79,7 +79,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 .form-control:focus {
   box-shadow: none;
-  border: 1px solid #223a66;
+  border: 1px solid #AE4951;
 }
 
 .py-7 {
@@ -111,9 +111,9 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main {
-  background: #223a66;
+  background: #AE4951;
   color: #fff;
-  border-color: #223a66;
+  border-color: #AE4951;
 }
 
 .btn-main:hover {
@@ -129,21 +129,21 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main-2:hover {
-  background: #223a66;
+  background: #AE4951;
   color: #fff;
-  border-color: #223a66;
+  border-color: #AE4951;
 }
 
 .btn-solid-border {
-  border: 2px solid #223a66;
+  border: 2px solid #AE4951;
   background: transparent;
-  color: #223a66;
+  color: #AE4951;
 }
 
 .btn-solid-border:hover {
-  border: 2px solid #223a66;
+  border: 2px solid #AE4951;
   color: #fff;
-  background: #223a66;
+  background: #AE4951;
 }
 
 .btn-solid-border:hover.btn-icon i {
@@ -172,9 +172,9 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-white:hover {
-  background: #223a66;
+  background: #AE4951;
   color: #fff;
-  border-color: #223a66;
+  border-color: #AE4951;
 }
 
 .btn-solid-white {
@@ -204,7 +204,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .bg-primary {
-  background: #223a66;
+  background: #AE4951;
 }
 
 .bg-primary-dark {
@@ -237,7 +237,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .subtitle {
-  color: #223a66;
+  color: #AE4951;
   font-size: 14px;
   letter-spacing: 1px;
 }
@@ -252,7 +252,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
-  background: #223a66;
+  background: #AE4951;
 }
 
 .overly-2 {
@@ -339,11 +339,11 @@ a:focus {
 }
 
 .title-color {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .secondary-bg {
-  background: #223a66;
+  background: #AE4951;
 }
 
 .section-title {
@@ -351,7 +351,7 @@ a:focus {
 }
 
 .section-title h2 {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .text-lg {
@@ -432,7 +432,7 @@ a:focus {
 }
 
 .header-top-bar {
-  background: #223a66;
+  background: #AE4951;
   font-size: 14px;
   padding: 10px 0px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -465,7 +465,7 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/slider-bg-1.jpg") no-repeat;
+  background: url("../images/bg/banner.png") no-repeat;
   background-size: cover;
   min-height: 550px;
 }
@@ -479,7 +479,7 @@ a:focus {
   line-height: 1.2;
   letter-spacing: -1.2px;
   text-transform: capitalize;
-  color: #223a66;
+  color: #e12454;
 }
 
 .letter-spacing {
@@ -487,7 +487,7 @@ a:focus {
 }
 
 .text-color {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .text-color-2 {
@@ -565,7 +565,7 @@ a:focus {
   content: "";
   right: 10px;
   bottom: 20px;
-  background: #223a66;
+  background: #AE4951;
   padding: 48px;
 }
 
@@ -611,11 +611,11 @@ a:focus {
 
 .feature-item .feature-icon i {
   font-size: 50px;
-  color: #223a66;
+  color: #AE4951;
 }
 
 .feature-item h4 {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .feature-item p {
@@ -788,7 +788,7 @@ a:focus {
 }
 
 .read-more {
-  color: #223a66;
+  color: #AE4951;
 }
 
 @media (max-width: 480px) {
@@ -831,7 +831,7 @@ a:focus {
   top: 0px;
   width: 100%;
   height: 100%;
-  background: rgba(34, 58, 102, 0.95);
+  background: #C38A76;
 }
 
 .mb-30 {
@@ -839,7 +839,7 @@ a:focus {
 }
 
 .text-color-primary {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .cta-section {
@@ -1057,12 +1057,12 @@ a:focus {
 }
 
 .nav-links .page-numbers:hover {
-  background: #223a66;
+  background: #AE4951;
   color: #fff;
 }
 
 .nav-links .page-numbers.current {
-  background: #223a66;
+  background: #AE4951;
   color: #fff;
 }
 
@@ -1086,7 +1086,7 @@ a:focus {
 
 .quote {
   font-size: 22px;
-  color: #223a66;
+  color: #AE4951;
   padding: 40px;
   font-style: italic;
   border-left: 5px solid #e12454;
@@ -1151,7 +1151,7 @@ a:focus {
 }
 
 .post-comments .comment-author a {
-  color: #223a66;
+  color: #AE4951;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -1164,7 +1164,7 @@ a:focus {
 }
 
 .post-comments .comment-button {
-  color: #223a66;
+  color: #AE4951;
   display: inline-block;
   margin-left: 5px;
   font-size: 12px;
@@ -1176,7 +1176,7 @@ a:focus {
 }
 
 .post-comments .comment-button:hover {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .post-excerpt {
@@ -1198,7 +1198,7 @@ a:focus {
 .post-excerpt blockquote.quote-post p {
   line-height: 30px;
   font-size: 20px;
-  color: #223a66;
+  color: #AE4951;
 }
 
 .comments-section {
@@ -1246,7 +1246,7 @@ a:focus {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #223a66;
+  color: #AE4951;
   font-size: 13px;
 }
 
@@ -1271,7 +1271,7 @@ a:focus {
 
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #223a66;
+  border: 1px solid #AE4951;
 }
 
 .comment-reply-form textarea, .comment-reply-form .btn-main {
@@ -1322,7 +1322,7 @@ a:focus {
 }
 
 .sidebar-widget.category ul li a:hover {
-  color: #223a66;
+  color: #AE4951;
   padding-left: 5px;
 }
 
@@ -1348,7 +1348,7 @@ a:focus {
 
 .sidebar-widget.tags a:hover {
   color: #fff;
-  background: #223a66;
+  background: #AE4951;
 }
 
 .sidebar-widget.schedule-widget {
@@ -1389,11 +1389,11 @@ a:focus {
 }
 
 .logo h3 {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .logo span {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .widget .divider {
@@ -1401,7 +1401,7 @@ a:focus {
 }
 
 .widget h4 {
-  color: #223a66;
+  color: #AE4951;
 }
 
 .widget .footer-menu a {
